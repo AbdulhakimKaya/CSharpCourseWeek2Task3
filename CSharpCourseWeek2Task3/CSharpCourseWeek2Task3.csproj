@@ -40,6 +40,18 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Business\CategoryManager.cs" />
+        <Compile Include="Business\CourseManager.cs" />
+        <Compile Include="Business\InstructorManager.cs" />
+        <Compile Include="DataAccess\Abstracts\ICategoryDal.cs" />
+        <Compile Include="DataAccess\Abstracts\ICourseDal.cs" />
+        <Compile Include="DataAccess\Abstracts\IInstructorDal.cs" />
+        <Compile Include="DataAccess\Concretes\CategoryDal.cs" />
+        <Compile Include="DataAccess\Concretes\CourseDal.cs" />
+        <Compile Include="DataAccess\Concretes\InstructorDal.cs" />
+        <Compile Include="Entities\Category.cs" />
+        <Compile Include="Entities\Course.cs" />
+        <Compile Include="Entities\Instructor.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

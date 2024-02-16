@@ -1,0 +1,6 @@
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\bin\Debug\CSharpCourseWeek2Task3.exe
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\bin\Debug\CSharpCourseWeek2Task3.pdb
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\obj\Debug\CSharpCourseWeek2Task3.csproj.AssemblyReference.cache
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\obj\Debug\CSharpCourseWeek2Task3.csproj.CoreCompileInputs.cache
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\obj\Debug\CSharpCourseWeek2Task3.exe
+C:\Users\abdul\RiderProjects\CSharpCourseWeek2Task3\CSharpCourseWeek2Task3\obj\Debug\CSharpCourseWeek2Task3.pdb
